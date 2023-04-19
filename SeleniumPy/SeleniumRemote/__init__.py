@@ -26,7 +26,7 @@ from selenium.webdriver.support import expected_conditions as exp_con
 
 
 
-class SeleniumPy():
+class SeleniumRemote():
     def __init__(self, port, Index):
  
         self.port = port
