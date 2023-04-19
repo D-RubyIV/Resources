@@ -1,0 +1,26 @@
+
+---------------------[PARSED PYC HEADER]------------------------
+
+[+] Compiled PYC Python Version: 3.9
+[+] PYC Type: Time-Stamp based PYC
+[+] Timestamp: Fri Dec 30 23:05:46 2022
+[+] File Size: 3 Bytes
+
+---------------[DISASSEMBLED CODE ATTRIBUTES]-------------------
+
+[+] File Name: RegIgMail.py
+[+] Arguments: 0
+[+] Constant Strings: 
+
+                     -> 0
+                     -> None
+                     -> ('Select',)
+                     -> ('webdriver',)
+                     -> ('By',)
+                     -> ('WebDriverWait',)
+                     -> ('expected_conditions',)
+                     -> ('Fore',)
+                     -> ('datetime',)
+                     -> Config\display.json
+
+[-] Error: Mismatched Python versions - System & PYC Compiled
